@@ -60,7 +60,8 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:hint="Ex: 12 km/L"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:inputType="numberDecimal" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -112,7 +113,8 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:hint="Ex: 12 km/L"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:inputType="numberDecimal" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
@@ -162,7 +164,8 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:hint="Ex: R$6,20"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:inputType="numberDecimal" />
 
         </com.google.android.material.textfield.TextInputLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
@@ -201,7 +204,8 @@
                 android:layout_height="wrap_content"
                 android:fontFamily="sans-serif"
                 android:hint="Ex: R$6,20"
-                android:textSize="14sp" />
+                android:textSize="14sp"
+                android:inputType="numberDecimal" />
 
         </com.google.android.material.textfield.TextInputLayout>
     </androidx.constraintlayout.widget.ConstraintLayout>
